@@ -8,7 +8,7 @@ class ProductList extends Component{
     }
 
     showProducts(){
-        //console.log('showProducts');
+        console.log('showProducts');
         //console.log(this.props.products);
         return this.props.products && Array.isArray(this.props.products) && this.props.products.map(product => (
             <ProductItem key={product.id} product={product} 

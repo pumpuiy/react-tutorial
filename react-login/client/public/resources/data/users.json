@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "firstName": "admin",
+      "lastName": "admin",
+      "token": "fake-jwt-token"
+    },
+    {
+      "id": 2,
+      "username": "admin2",
+      "password": "admin2",
+      "firstName": "admin2",
+      "lastName": "admin2",
+      "token": "fake-jwt-token"
+    },
+    {
+      "id": 3,
+      "username": "admin3",
+      "password": "admin3",
+      "firstName": "admin3",
+      "lastName": "admin3",
+      "token": "fake-jwt-token"
+    },
+    {
+      "firstName": "admin4",
+      "lastName": "admin4",
+      "username": "admin4",
+      "password": "admin4",
+      "id": 4
+    }
+  ]
+}
